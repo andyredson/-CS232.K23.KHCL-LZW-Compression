@@ -1,2 +1,2 @@
-Introduction to Multimedia Computing
-LZW Compression
+# Introduction to Multimedia Computing
+# LZW Compression
